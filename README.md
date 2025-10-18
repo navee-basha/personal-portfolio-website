@@ -56,7 +56,7 @@ Portfolio/
 
 1. Clone this repository:
 
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/navee-basha/portfolio.git
 
 
 2. Navigate to the project folder:
@@ -111,7 +111,7 @@ Drag and drop your project folder or link your GitHub repo.
 Naveed Basha
 💼 LinkedIn
 📸 Instagram
-📧 naveed@example.com
+📧 naveedbasha9313@gmail.com
 
 
 ---
