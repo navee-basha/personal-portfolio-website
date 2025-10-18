@@ -1,7 +1,3 @@
-Here’s a clean, professional README.md template for your personal portfolio website.
-It’s written in Markdown, easy to customize, and GitHub-friendly 👇
-
-
 ---
 
 🌐 Personal Portfolio Website
